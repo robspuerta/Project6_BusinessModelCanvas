@@ -19,6 +19,6 @@ I modified the base template by incorporating additional concepts such as "fixed
 <img src="https://github.com/robspuerta/Project6_BusinessModelCanvas/blob/main/BusinessModelCanvasByRobinPuerta.JPG" alt="Robin Puerta product Owner + Business Analyst">
 
 Conclusion
-The #BusinessModelCanvas also provides a quick and easy way to understand an existing product and its business model. Let me know in the comments what you do when you start in a new product/company to quickly catch up. #Business #ProductSuccess #CustomerJourneyMap
+The #BusinessModelCanvas also provides a quick and easy way to understand an existing product and its business model. Let me know in the comments what you do when you start in a new product/company to quickly catch up and start adding value to your new customers. #Business #ProductSuccess #CustomerJourneyMap
 
 <sub>Check more posts related to Product Owner tools and methodology on my [GitHub](https://github.com/robspuerta) and more about me on [Linkedin](https://www.linkedin.com/in/robin-puerta/).</sub>
