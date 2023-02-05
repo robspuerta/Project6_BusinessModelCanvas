@@ -14,6 +14,7 @@ Many times, I have stumbled upon this template, and it was always to plan for a 
 
 Example
 For example, by analyzing a business model canvas of a blockchain product, you can gain a better understanding of the overall strategy and potential success based on its customer segments, value proposition, revenue streams, key activities, and more.
+<img src="https://github.com/robspuerta/Project6_BusinessModelCanvas/blob/main/BusinessModelCanvasByRobinPuerta.JPG" alt="Robin Puerta product Owner + Business Analyst">
 
 Conclusion
 The #BusinessModelCanvas also provides a quick and easy way to understand an existing product and its business model. Let me know in the comments what you do when you start in a new product/company to quickly catch up. #Business #ProductSuccess #CustomerJourneyMap
