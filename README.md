@@ -14,6 +14,8 @@ Many times, I have stumbled upon this template, and it was always to plan for a 
 
 Example
 For example, by analyzing a business model canvas of a blockchain product, you can gain a better understanding of the overall strategy and potential success based on its customer segments, value proposition, revenue streams, key activities, and more.
+
+I modified the base template by incorporating additional concepts such as "fixed and variable costs," and incorporating elements like Risks, Metrics, and Business Objectives to make it more complete.
 <img src="https://github.com/robspuerta/Project6_BusinessModelCanvas/blob/main/BusinessModelCanvasByRobinPuerta.JPG" alt="Robin Puerta product Owner + Business Analyst">
 
 Conclusion
