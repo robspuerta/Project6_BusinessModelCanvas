@@ -1,4 +1,4 @@
-# Project6_BusinessModelCanvas
+# Project 6 Business Model Canvas by **Robin Puerta**
 <img src="https://github.com/robspuerta/Project6_BusinessModelCanvas/blob/main/BusinessModelCanvas_banner.png" alt="Robin Puerta product Owner + Business Analyst">
 Intro
 Continuing your journey in a new company can be both exciting and overwhelming. With so much information to process, it can be challenging to know where to start or catch up with the rest of the team.
